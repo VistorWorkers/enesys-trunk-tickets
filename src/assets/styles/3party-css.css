@@ -2575,7 +2575,7 @@ body .bootstrap-select .btn:focus {
 .jvectormap-label {
     padding: 3px 6px !important;
     border: none !important;
-    background: url(../img/transparent/black-0.6.png) !important;
+    /*background: url(../img/transparent/black-0.6.png) !important;*/
     background: rgba(0,0,0,0.6) !important;
 }
 
@@ -3436,7 +3436,7 @@ body .bootstrap-select .btn:focus {
 /* 15.3 Boxed Layout Setting */
 
 .boxed-layout {
-    background-image: url(../img/pattern-cover.png);
+    /*background-image: url(../img/pattern-cover.png);*/
 }
 .boxed-layout .page-container {
     width: 1080px;

@@ -10,3 +10,8 @@
     }
 </script>
 
+<style scoped lang="stylus" rel="stylesheet/stylus">
+    @import "~@assets/styles/mixins.styl"
+    #app
+        fullPage()
+</style>
