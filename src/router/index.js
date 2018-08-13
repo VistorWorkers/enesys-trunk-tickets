@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 
 const Login = () => import('@pages/login/Login')
-const Index = () => import( '@pages/index/Index')
+const Index = () => import('@pages/index/Index')
 
 Vue.use(Router)
 

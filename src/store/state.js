@@ -1,5 +1,6 @@
 const state = {
-    loginInfo: null
+    loginInfo: null,
+    currPage : null
 }
 
 export default state

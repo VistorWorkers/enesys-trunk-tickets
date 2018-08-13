@@ -16,5 +16,6 @@ module.exports={
             .set('@config',resolve('src/config'))
             .set('@store',resolve('src/store'))
             .set('@service',resolve('src/service'))
+            .set('@utils',resolve('src/utils'))
     }
 }
